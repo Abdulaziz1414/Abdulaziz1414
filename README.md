@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdulaziz! <br/><a href="https://github.com/Abdulaziz1414">Github</a>
+<h1>Hi, I'm Abdulaziz! <br/><a href="https://www.linkedin.com/in/abdulaziz-a-5b43b5b7/">PhD Student at Texas A&M University</a>
 
 <h2>👨‍💻 Projects:</h2>
 
