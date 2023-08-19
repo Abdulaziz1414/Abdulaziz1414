@@ -11,6 +11,16 @@
 - <b>Development of a MATLAB Package for Modeling and Control of Robotic Manipulators</b>
   - [Open Project](https://github.com/Abdulaziz1414/RobotToolbox)
 
+<h2>👨‍💻 Education:</h2>
+
+- <b>Master of Science in Mechanical Engineering</b>
+
+  - Arizona State University 2021
+  
+- <b>Bachelor of Science in Mechanical Engineering</b>
+
+  - Qassim University 2017
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
