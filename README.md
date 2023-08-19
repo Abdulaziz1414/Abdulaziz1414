@@ -4,12 +4,13 @@
 
 - <b>Leader-Follower Multi Robot Herding System </b>
   - [Open Project](https://github.com/Abdulaziz1414/Leader-Follower)
-  - Tools used: Matlab.
+  - Tools: Matlab.
 - <b>Covid-19 daily cases prediction in Saudi Arabia</b>
   - [Open Project](https://github.com/Abdulaziz1414/dailyCases)
-  - Tools used: Python, TensorFlow, Keras.
+  - Tools: Python, TensorFlow, Keras.
 - <b>Development of a MATLAB Package for Modeling and Control of Robotic Manipulators</b>
   - [Open Project](https://github.com/Abdulaziz1414/RobotToolbox)
+  - Tools: Matlab.
 
 <h2>👨‍💻 Education:</h2>
 
